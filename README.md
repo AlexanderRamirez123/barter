@@ -3,6 +3,7 @@
     <img alt="Bedrock" src="https://cdn.roots.io/app/uploads/logo-bedrock.svg" height="100">
   </a>
 </p>
+PARRAFO
 
 <p align="center">
   <a href="LICENSE.md">
