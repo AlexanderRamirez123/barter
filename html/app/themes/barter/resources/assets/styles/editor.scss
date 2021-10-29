@@ -1,0 +1,17 @@
+/**
+ * Editor
+ */
+
+@import 'config/variables';
+@import 'config/external';
+
+.public-front{
+
+.editor-styles-wrapper > * {
+  @import 'common/global';
+  @import 'components';
+
+  font-family: $body-family;
+}
+
+}

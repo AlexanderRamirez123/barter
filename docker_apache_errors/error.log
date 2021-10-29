@@ -1,0 +1,12 @@
+[Sun Oct 03 21:26:56.768390 2021] [ssl:warn] [pid 1] AH01909: 172.17.0.9:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 03 21:27:09.816573 2021] [autoindex:error] [pid 354] [client 172.17.0.1:59576] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Oct 03 21:28:08.772476 2021] [php7:warn] [pid 355] [client 172.17.0.1:59610] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'root'@'172.17.0.9' (using password: YES) in /var/www/html/wp/wp-includes/wp-db.php on line 1653
+[Fri Oct 08 13:38:30.647724 2021] [ssl:warn] [pid 1] AH01909: 172.17.0.8:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 08 13:38:30.664340 2021] [ssl:warn] [pid 1] AH01909: 172.17.0.8:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 08 13:52:45.765419 2021] [ssl:warn] [pid 1] AH01909: 172.17.0.9:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 08 13:52:45.779375 2021] [ssl:warn] [pid 1] AH01909: 172.17.0.9:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 08 15:24:25.967417 2021] [php7:error] [pid 20] [client 172.17.0.1:50954] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in /var/www/html/app/themes/barter/app/setup.php on line 170, referer: https://barter.intraders.com.co/wp/wp-admin/post.php?post=346&action=edit
+[Fri Oct 08 15:25:21.511793 2021] [php7:error] [pid 25] [client 172.17.0.1:51000] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in /var/www/html/app/themes/barter/app/setup.php on line 170, referer: https://barter.intraders.com.co/ingreso/
+[Fri Oct 08 15:25:21.738961 2021] [php7:error] [pid 25] [client 172.17.0.1:51000] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in /var/www/html/app/themes/barter/app/setup.php on line 170, referer: https://barter.intraders.com.co/dashboard/
+[Fri Oct 08 17:14:05.131434 2021] [ssl:warn] [pid 1] AH01909: 172.17.0.9:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 08 17:14:05.147228 2021] [ssl:warn] [pid 1] AH01909: 172.17.0.9:443:0 server certificate does NOT include an ID which matches the server name
